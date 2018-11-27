@@ -24,7 +24,7 @@ requirements:
   run:
     - python
     - docutils
-    - sphinx
+    - sphinx <1.7
 
 test:
   imports:
